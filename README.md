@@ -6,6 +6,7 @@
 
 ![Functional Programming](https://github.com/Dreamerol/Dreamerol/blob/840ec1688c588786c6334d90d3de7183c9224893/clojure.jpg)
 
+<div>
 
 
 <h2 align="center">🌟 Core Functional Programming Concepts</h2>
@@ -17,7 +18,8 @@
   <img src="https://img.shields.io/badge/Algorithms-Mathematical%20Logic-6A5ACD?style=for-the-badge" />
 </p>
 
-
+<div>
+  
 ---
 
 ## 📖 Overview
