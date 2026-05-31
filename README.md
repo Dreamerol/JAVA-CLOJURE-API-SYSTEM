@@ -19,13 +19,11 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Clojure-Functional%20Programming-5881D8?style=for-the-badge&logo=clojure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-Backend%20Development-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/APIs-System%20Integration-009688?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Algorithms-Mathematical%20Logic-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clojure-Functional%20Programming-7A263A?style=for-the-badge&logo=clojure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-Backend%20Development-8B2E2E?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/APIs-System%20Integration-A52A2A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Algorithms-Mathematical%20Logic-6D214F?style=for-the-badge" />
 </p>
-
-<div>
   
 ---
 
