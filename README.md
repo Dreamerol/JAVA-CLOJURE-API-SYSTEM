@@ -11,6 +11,25 @@
 
 <h2 align="center">🌟 Core Functional Programming Concepts</h2>
 
+![Functional Programming](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/clojure.jpg)
+
+<div>
+
+
+<h2 align="center">🌟 Core Functional Programming Concepts</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Clojure-Functional%20Programming-5881D8?style=for-the-badge&logo=clojure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-Backend%20Development-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/APIs-System%20Integration-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Algorithms-Mathematical%20Logic-6A5ACD?style=for-the-badge" />
+</p>
+
+<div>
+
+
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Clojure-Functional%20Programming-5881D8?style=for-the-badge&logo=clojure&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-Backend%20Development-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
