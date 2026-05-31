@@ -4,7 +4,7 @@
 
 <br>
 
-![Functional Programming](https://raw.githubusercontent.com/Dreamerol/Dreamerol/840ec1688c588786c6334d90d3de7183c9224893/clojure.jpg)
+![Functional Programming](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/clojure.jpg)
 
 <div>
 
