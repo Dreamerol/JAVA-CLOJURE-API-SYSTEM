@@ -168,18 +168,6 @@ This approach allows you to **connect multiple systems reliably** while learning
 During my onboarding program, I was part of a team working with **core algorithms** in a **product-oriented company**, gaining **real-world experience** in developing backend solutions.  
 
 
----
-
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Clojure-Functional%20Programming-8B3A3A?style=for-the-badge&logo=clojure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-Backend%20Development-A52A2A?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/APIs-System%20Integration-B22222?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Algorithms-Mathematical%20Logic-7B3F61?style=for-the-badge" />
-</p>
-
-
 
 
 ---
