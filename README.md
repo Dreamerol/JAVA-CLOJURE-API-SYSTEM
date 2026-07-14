@@ -35,15 +35,6 @@ The goal of this project is to practice functional programming concepts such as:
 - **Collections and sequences** – leveraging lists, vectors, maps, and sets for mathematical computations
 
 
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Clojure-Functional%20Programming-8B3A3A?style=for-the-badge&logo=clojure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-Backend%20Development-A52A2A?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/APIs-System%20Integration-B22222?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Algorithms-Mathematical%20Logic-7B3F61?style=for-the-badge" />
-</p>
-
 
 ---
 
@@ -82,15 +73,6 @@ Through these exercises, learners gain **hands-on experience** applying function
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Clojure-Functional%20Programming-8B3A3A?style=for-the-badge&logo=clojure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-Backend%20Development-A52A2A?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/APIs-System%20Integration-B22222?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Algorithms-Mathematical%20Logic-7B3F61?style=for-the-badge" />
-</p>
-
----
-
 ### 💡 Why This Matters
 
 By completing this journey, learners not only improve their Clojure skills but also gain an appreciation for **functional programming paradigms** that are widely used in **backend development, data pipelines, and algorithmic systems**.  
@@ -124,17 +106,6 @@ All tasks are implemented in Clojure and focus on applying these principles to *
 
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Clojure-Functional%20Programming-8B3A3A?style=for-the-badge&logo=clojure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-Backend%20Development-A52A2A?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/APIs-System%20Integration-B22222?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Algorithms-Mathematical%20Logic-7B3F61?style=for-the-badge" />
-</p>
-
-
-
----
-
 ## ⚡ API Integration & Data Transfer
 
 As part of the onboarding program, I practiced **designing APIs, rapid API description, and functional integration** to handle **data transfer between systems**.  
@@ -166,7 +137,6 @@ This experience demonstrates how FP concepts can improve **system integration, m
 
 This approach allows you to **connect multiple systems reliably** while learning how FP concepts like pure functions, composition, and immutability improve API design and maintainability.
 During my onboarding program, I was part of a team working with **core algorithms** in a **product-oriented company**, gaining **real-world experience** in developing backend solutions.  
-
 
 
 
