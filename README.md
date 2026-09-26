@@ -188,7 +188,10 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
+<div align="left">
 
+
+<div align="left">
 
 
 
@@ -323,6 +326,10 @@ This experience strengthened my understanding of **how AI and algorithms are app
 The codes for APIs are confedential and cannot be post on my github account.
 
 
+</div>
+
+
+</div>
 
 
 
