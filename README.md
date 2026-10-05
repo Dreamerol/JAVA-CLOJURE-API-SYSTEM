@@ -18,7 +18,7 @@
 
 
 
-<h2 align="center"><b>Clojure Functional Programming | Math & Algorithm Challenges</b></h2>
+<h1 align="center"><b>Clojure Functional Programming | Math & Algorithm Challenges</b></h1>
 
 
 
