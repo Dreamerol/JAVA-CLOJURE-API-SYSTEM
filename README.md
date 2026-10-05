@@ -18,9 +18,24 @@
 
 
 
-![Functional Programming](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/CLOJURE-3.png)
 
-<div>
+
+
+
+<a href="https://github.com/Dreamerol/AI-STUDIO" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/CLOJURE-3.png"
+    alt="DSA"
+    style="width: 100%; height: auto; display: block;"
+  >
+</a>
+
+
+
+
+
+
+
 
 
 
