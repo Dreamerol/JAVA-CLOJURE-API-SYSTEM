@@ -6,9 +6,9 @@
 
 
 <h1 align="center">
-  🧩 <a href="https://github.com/Dreamerol/CARDFOLIO"
+  🌀 <a href="https://github.com/Dreamerol/CARDFOLIO"
      title="Data Structures & Algorithms — CARDFOLIO • Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • AI Engineer">
-    <b>🌀 𝗝𝗔𝗩𝗔, 𝗖𝗟𝗢𝗝𝗨𝗥𝗘 & 𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠</b>
+    <b>𝗝𝗔𝗩𝗔, 𝗖𝗟𝗢𝗝𝗨𝗥𝗘 & 𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠</b>
   </a>
 </h1>
 
