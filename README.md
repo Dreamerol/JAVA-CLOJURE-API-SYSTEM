@@ -7,7 +7,7 @@
 
 <h1 align="center">
   🌀 <a href="https://github.com/Dreamerol/CARDFOLIO"
-     title="Data Structures & Algorithms — CARDFOLIO • Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • AI Engineer">
+     title="Clojure — CARDFOLIO • Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • AI Engineer">
     <b>𝗝𝗔𝗩𝗔, 𝗖𝗟𝗢𝗝𝗨𝗥𝗘 & 𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠</b>
   </a>
 </h1>
@@ -19,7 +19,7 @@
 
 <h1 align="center">
     <a href="https://github.com/Dreamerol/CARDFOLIO"
-     title="Data Structures & Algorithms — CARDFOLIO • Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • AI Engineer">
+     title="Clojure — CARDFOLIO • Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • AI Engineer">
     <b>Clojure Functional Programming | Algorithm Challenges</b>
   </a>
 </h1>
@@ -38,10 +38,13 @@
 
 
 
+
+
+
 <a href="https://github.com/Dreamerol/AI-STUDIO" target="_blank">
   <img
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/CLOJURE-3.png"
-    alt="DSA"
+    alt="Clojure"
     style="width: 100%; height: auto; display: block;"
   >
 </a>
