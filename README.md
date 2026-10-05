@@ -17,8 +17,13 @@
 
 
 
+<h1 align="center">
+  🌀 <a href="https://github.com/Dreamerol/CARDFOLIO"
+     title="Data Structures & Algorithms — CARDFOLIO • Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • AI Engineer">
+    <b>Clojure Functional Programming | Algorithm Challenges</b>
+  </a>
+</h1>
 
-<h1 align="center"><b>Clojure Functional Programming | Algorithm Challenges</b></h1>
 
 
 
