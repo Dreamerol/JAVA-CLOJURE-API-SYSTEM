@@ -27,6 +27,8 @@
 
 
 
+
+
 <br>
 
 <br>
@@ -44,7 +46,7 @@
 <a href="https://github.com/Dreamerol/AI-STUDIO" target="_blank">
   <img
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/CLOJURE-3.png"
-    alt="Clojure"
+    alt="Clojure — CARDFOLIO • Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • SMG (СМГ) • Sofia • AI Engineer"
     style="width: 100%; height: auto; display: block;"
   >
 </a>
