@@ -18,7 +18,7 @@
 
 
 
-![Functional Programming](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/clojure.jpg)
+![Functional Programming](https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/CLOJURE-3.png)
 
 <div>
 
